@@ -1,0 +1,11 @@
+question,reference
+What is the capital of France?,Paris
+What is the use of a CPU in a computer?,It processes instructions and runs programs
+What is the capital of India ,New Dehli
+What is the core definition of Artificial Intelligence?,"Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction."
+How does Machine Learning differ from traditional programming paradigms?,"Traditional programming follows explicitly coded rules, whereas Machine Learning allows systems to learn patterns and make decisions from data without being explicitly programmed for each task."
+"What are the three primary types of Machine Learning, and how are they different?",Supervised Learning: Uses labeled data to train models. Unsupervised Learning: Uses unlabeled data to find hidden patterns.Reinforcement Learning: Learns by interacting with an environment and receiving feedback in the form of rewards or penalties.
+"What is Deep Learning, and what distinguishes it from traditional ML techniques?","Deep Learning is a subset of ML that uses neural networks with many layers to model complex patterns in data. Unlike traditional ML, it can automatically extract features without manual engineering."
+,
+,
+,

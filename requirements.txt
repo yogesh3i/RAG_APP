@@ -1,0 +1,12 @@
+ipykernel
+langchain 
+langchain_community 
+langchain_core
+faiss-cpu
+huggingface-hub
+requests 
+tqdm 
+streamlit 
+ollama
+pandas 
+rouge-score
