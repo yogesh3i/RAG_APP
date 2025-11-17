@@ -90,9 +90,10 @@ Final answer is displayed to the user.
 ### Author
 
 **Yogesh Bharat Deotale**  
-_Data Scientist_ AI_Developer
+_Data Scientist_|| AI_Developer
 
 Email: [yogeshdeotale@email.com](mailto:yogeshdeotale@email.com)  
 LinkedIn: [linkedin.com/in/yogesh-deotale](https://www.linkedin.com/in/yogesh-deotale)  
+
 
 
